@@ -1,0 +1,37 @@
+2018-03-01 10:50:12,824 [10] DEBUG MVCActionFilter.Filtros.MensajesFilterAttribute [(null)] - Void OnActionExecuting(System.Web.Mvc.ActionExecutingContext)
+2018-03-01 10:50:12,836 [10] DEBUG MVCActionFilter.Filtros.MensajesFilterAttribute [(null)] - ActionParameters: 
+2018-03-01 10:50:12,836 [10] DEBUG MVCActionFilter.Filtros.MensajesFilterAttribute [(null)] -  --------------------------------------- 
+2018-03-01 10:50:12,849 [10] DEBUG MVCActionFilter.Controllers.HomeController [(null)] - Mensaje guardado a las jueves, 1 de marzo de 2018
+2018-03-01 10:50:12,854 [10] DEBUG MVCActionFilter.Filtros.MensajesFilterAttribute [(null)] - Void OnActionExecuted(System.Web.Mvc.ActionExecutedContext)
+2018-03-01 10:50:12,854 [10] DEBUG MVCActionFilter.Filtros.MensajesFilterAttribute [(null)] - ActionResult: System.Web.Mvc.ViewResult
+2018-03-01 10:50:12,854 [10] DEBUG MVCActionFilter.Filtros.MensajesFilterAttribute [(null)] -  --------------------------------------- 
+2018-03-01 10:50:12,856 [10] DEBUG MVCActionFilter.Filtros.MensajesFilterAttribute [(null)] - Void OnResultExecuting(System.Web.Mvc.ResultExecutingContext)
+2018-03-01 10:50:12,856 [10] DEBUG MVCActionFilter.Filtros.MensajesFilterAttribute [(null)] - ActionResult: System.Web.Mvc.ViewResult
+2018-03-01 10:50:12,856 [10] DEBUG MVCActionFilter.Filtros.MensajesFilterAttribute [(null)] -  --------------------------------------- 
+2018-03-01 10:50:12,963 [10] DEBUG MVCActionFilter.Filtros.MensajesFilterAttribute [(null)] - Void OnResultExecuted(System.Web.Mvc.ResultExecutedContext)
+2018-03-01 10:50:12,963 [10] DEBUG MVCActionFilter.Filtros.MensajesFilterAttribute [(null)] - ActionResult: System.Web.Mvc.ViewResult
+2018-03-01 10:50:12,963 [10] DEBUG MVCActionFilter.Filtros.MensajesFilterAttribute [(null)] -  --------------------------------------- 
+2018-03-01 10:50:31,357 [10] DEBUG MVCActionFilter.Filtros.MensajesFilterAttribute [(null)] - Void OnActionExecuting(System.Web.Mvc.ActionExecutingContext)
+2018-03-01 10:50:31,358 [10] DEBUG MVCActionFilter.Filtros.MensajesFilterAttribute [(null)] - ActionParameters: 
+2018-03-01 10:50:31,358 [10] DEBUG MVCActionFilter.Filtros.MensajesFilterAttribute [(null)] -  --------------------------------------- 
+2018-03-01 10:50:31,361 [10] DEBUG MVCActionFilter.Filtros.MensajesFilterAttribute [(null)] - Void OnActionExecuted(System.Web.Mvc.ActionExecutedContext)
+2018-03-01 10:50:31,361 [10] DEBUG MVCActionFilter.Filtros.MensajesFilterAttribute [(null)] - ActionResult: System.Web.Mvc.ViewResult
+2018-03-01 10:50:31,361 [10] DEBUG MVCActionFilter.Filtros.MensajesFilterAttribute [(null)] -  --------------------------------------- 
+2018-03-01 10:50:31,361 [10] DEBUG MVCActionFilter.Filtros.MensajesFilterAttribute [(null)] - Void OnResultExecuting(System.Web.Mvc.ResultExecutingContext)
+2018-03-01 10:50:31,362 [10] DEBUG MVCActionFilter.Filtros.MensajesFilterAttribute [(null)] - ActionResult: System.Web.Mvc.ViewResult
+2018-03-01 10:50:31,362 [10] DEBUG MVCActionFilter.Filtros.MensajesFilterAttribute [(null)] -  --------------------------------------- 
+2018-03-01 10:50:32,194 [10] DEBUG MVCActionFilter.Filtros.MensajesFilterAttribute [(null)] - Void OnResultExecuted(System.Web.Mvc.ResultExecutedContext)
+2018-03-01 10:50:32,194 [10] DEBUG MVCActionFilter.Filtros.MensajesFilterAttribute [(null)] - ActionResult: System.Web.Mvc.ViewResult
+2018-03-01 10:50:32,194 [10] DEBUG MVCActionFilter.Filtros.MensajesFilterAttribute [(null)] -  --------------------------------------- 
+2018-03-01 11:34:58,137 [5] DEBUG MVCActionFilter.Filtros.MensajesFilterAttribute [(null)] - Void OnActionExecuting(System.Web.Mvc.ActionExecutingContext)
+2018-03-01 11:34:58,148 [5] DEBUG MVCActionFilter.Filtros.MensajesFilterAttribute [(null)] - ActionParameters: 
+2018-03-01 11:34:58,148 [5] DEBUG MVCActionFilter.Filtros.MensajesFilterAttribute [(null)] -  --------------------------------------- 
+2018-03-01 11:34:58,189 [5] DEBUG MVCActionFilter.Filtros.MensajesFilterAttribute [(null)] - Void OnActionExecuted(System.Web.Mvc.ActionExecutedContext)
+2018-03-01 11:34:58,189 [5] DEBUG MVCActionFilter.Filtros.MensajesFilterAttribute [(null)] - ActionResult: System.Web.Mvc.ViewResult
+2018-03-01 11:34:58,190 [5] DEBUG MVCActionFilter.Filtros.MensajesFilterAttribute [(null)] -  --------------------------------------- 
+2018-03-01 11:34:58,192 [5] DEBUG MVCActionFilter.Filtros.MensajesFilterAttribute [(null)] - Void OnResultExecuting(System.Web.Mvc.ResultExecutingContext)
+2018-03-01 11:34:58,192 [5] DEBUG MVCActionFilter.Filtros.MensajesFilterAttribute [(null)] - ActionResult: System.Web.Mvc.ViewResult
+2018-03-01 11:34:58,192 [5] DEBUG MVCActionFilter.Filtros.MensajesFilterAttribute [(null)] -  --------------------------------------- 
+2018-03-01 11:35:01,843 [5] DEBUG MVCActionFilter.Filtros.MensajesFilterAttribute [(null)] - Void OnResultExecuted(System.Web.Mvc.ResultExecutedContext)
+2018-03-01 11:35:01,843 [5] DEBUG MVCActionFilter.Filtros.MensajesFilterAttribute [(null)] - ActionResult: System.Web.Mvc.ViewResult
+2018-03-01 11:35:01,843 [5] DEBUG MVCActionFilter.Filtros.MensajesFilterAttribute [(null)] -  --------------------------------------- 
